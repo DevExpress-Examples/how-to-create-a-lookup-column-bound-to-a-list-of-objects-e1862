@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Window1.xaml](./CS/LookUpToObject/Window1.xaml) (VB: [Window1.xaml.vb](./VB/LookUpToObject/Window1.xaml.vb))
+* [Window1.xaml](./CS/LookUpToObject/Window1.xaml) (VB: [Window1.xaml](./VB/LookUpToObject/Window1.xaml))
 * [Window1.xaml.cs](./CS/LookUpToObject/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/LookUpToObject/Window1.xaml.vb))
 <!-- default file list end -->
 # How to create a lookup column bound to a list of objects
